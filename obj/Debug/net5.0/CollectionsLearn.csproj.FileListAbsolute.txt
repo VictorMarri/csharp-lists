@@ -1,0 +1,16 @@
+C:\Users\victo\source\repos\ALURA\.NET\CollectionsLearn\bin\Debug\net5.0\CollectionsLearn.exe
+C:\Users\victo\source\repos\ALURA\.NET\CollectionsLearn\bin\Debug\net5.0\CollectionsLearn.deps.json
+C:\Users\victo\source\repos\ALURA\.NET\CollectionsLearn\bin\Debug\net5.0\CollectionsLearn.runtimeconfig.json
+C:\Users\victo\source\repos\ALURA\.NET\CollectionsLearn\bin\Debug\net5.0\CollectionsLearn.runtimeconfig.dev.json
+C:\Users\victo\source\repos\ALURA\.NET\CollectionsLearn\bin\Debug\net5.0\CollectionsLearn.dll
+C:\Users\victo\source\repos\ALURA\.NET\CollectionsLearn\bin\Debug\net5.0\ref\CollectionsLearn.dll
+C:\Users\victo\source\repos\ALURA\.NET\CollectionsLearn\bin\Debug\net5.0\CollectionsLearn.pdb
+C:\Users\victo\source\repos\ALURA\.NET\CollectionsLearn\obj\Debug\net5.0\CollectionsLearn.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\ALURA\.NET\CollectionsLearn\obj\Debug\net5.0\CollectionsLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\ALURA\.NET\CollectionsLearn\obj\Debug\net5.0\CollectionsLearn.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\ALURA\.NET\CollectionsLearn\obj\Debug\net5.0\CollectionsLearn.AssemblyInfo.cs
+C:\Users\victo\source\repos\ALURA\.NET\CollectionsLearn\obj\Debug\net5.0\CollectionsLearn.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\ALURA\.NET\CollectionsLearn\obj\Debug\net5.0\CollectionsLearn.dll
+C:\Users\victo\source\repos\ALURA\.NET\CollectionsLearn\obj\Debug\net5.0\ref\CollectionsLearn.dll
+C:\Users\victo\source\repos\ALURA\.NET\CollectionsLearn\obj\Debug\net5.0\CollectionsLearn.pdb
+C:\Users\victo\source\repos\ALURA\.NET\CollectionsLearn\obj\Debug\net5.0\CollectionsLearn.genruntimeconfig.cache
