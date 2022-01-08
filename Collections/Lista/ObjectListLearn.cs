@@ -22,9 +22,9 @@ namespace CollectionsLearn.Collections.Lista
 
         public static void ListaObjetos()
         {
-            //ImprimirLista(trabalhos);
-            //OrdenarListaPorComparable(trabalhos);
-            //OrdenarListaPorSort(trabalhos);
+            ImprimirLista(trabalhos);
+            OrdenarListaPorComparable(trabalhos);
+            OrdenarListaPorSort(trabalhos);
         }
 
         private static void OrdenarListaPorSort(List<Trabalho> trabalhos)

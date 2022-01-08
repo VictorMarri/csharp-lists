@@ -18,14 +18,14 @@ namespace CollectionsLearn.Collections
 
         public static void Lists()
         {
-            //ImprimeListaComForeach(listaPadrao);
-            //ProcurandoUltimaOcorrenciaDeElemento(listaPadrao);
-            //ProcurandoPrimeiraOcorrenciaDeElemento(listaPadrao);
-            //InverterLista(listaPadrao);
-            //RemoverElementoDePosicaoEspecifica(listaPadrao);
-            //OrdenandoLista(listaPadrao);
-            //CopiarLista(listaPadrao);
-            //ClonarLista(listaPadrao);
+            ImprimeListaComForeach(listaPadrao);
+            ProcurandoUltimaOcorrenciaDeElemento(listaPadrao);
+            ProcurandoPrimeiraOcorrenciaDeElemento(listaPadrao);
+            InverterLista(listaPadrao);
+            RemoverElementoDePosicaoEspecifica(listaPadrao);
+            OrdenandoLista(listaPadrao);
+            CopiarLista(listaPadrao);
+            ClonarLista(listaPadrao);
             RemoveElementos(listaPadrao);
         }
 

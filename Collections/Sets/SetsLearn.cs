@@ -18,11 +18,11 @@ namespace CollectionsLearn.Collections.Sets
         public static void IniciaSets()
         {
             VantagensDoHashSet();
-            //AdicionandoNoSet();
-            //Imprimir(alunos);
-            //TestandoPrimeiraRegraDosSets(alunos);
-            //TestandoSegundaRegraDosSets(alunos);
-            //OrdenandoSet(alunos);
+            AdicionandoNoSet();
+            Imprimir(alunos);
+            TestandoPrimeiraRegraDosSets(alunos);
+            TestandoSegundaRegraDosSets(alunos);
+            OrdenandoSet(alunos);
         }
 
         private static void OrdenandoSet(ISet<string> alunos)
