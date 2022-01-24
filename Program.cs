@@ -4,6 +4,8 @@ using CollectionsLearn.Collections.Dictionary;
 using CollectionsLearn.Collections.LinkedList;
 using CollectionsLearn.Collections.Lista;
 using CollectionsLearn.Collections.Sets;
+using CollectionsLearn.Collections.SortedDictionary;
+using CollectionsLearn.Collections.SortedList;
 
 namespace CollectionsLearn
 {
@@ -45,7 +47,9 @@ namespace CollectionsLearn
 
             //Console.ReadKey(true);
 
-            DictionaryLearn.InicializaDictionary();
+            //DictionaryLearn.InicializaDictionary();
+            //SortedListLearn.InicializaSortedList();
+            SortedDictionaryLearn.InicializaSortedDictionary();
         }
 
     }
